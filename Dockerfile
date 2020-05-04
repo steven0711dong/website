@@ -13,7 +13,7 @@ RUN apk add --no-cache \
     git \
     openssh-client \
     rsync \
-    build-base \
+    build-base \dsadsads
     libc6-compat
 
 ARG HUGO_VERSION
